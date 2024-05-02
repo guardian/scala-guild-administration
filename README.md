@@ -15,14 +15,15 @@ this group, maintenance responsibility for shared libraries that are used across
 unclear.
 
 The guild has _criteria_ for accepting responsibility for Scala code, and is not responsible for all Scala code at the Guardian.
-Accepting responsibility does not happen automatically, and must be reviewed by the guild.
+Accepting responsibility does not happen automatically, each repo must be added by a PR reviewed by the guild.
 
 ## Criteria for code being maintained by the Guild
 
-It must be:
-* In a public GitHub repository
-* Consumed by **more than one Product team** at the Guardian - if only one Product team consumes a library, then by default,
+It must:
+* Be in a public GitHub repository
+* Be consumed by **more than one Product team** at the Guardian - if only one Product team consumes a library, then by default,
   they should maintain it - though obviously the Scala Guild can be consulted for expertise.
+* Have Scala Steward [enabled](https://github.com/guardian/scala-steward-public-repos).
 * (if it is a library) Use a secure automated release process, ie [`gha-scala-library-release-workflow`](https://github.com/guardian/gha-scala-library-release-workflow)
 
 There should be:
