@@ -9,7 +9,7 @@ Scala Guild. It’s intended to draw its membership from across all Product Stre
 
 If you'd like to join the guild, feel free to message any of the guild members (particularily,
 Roberto will always be delighted to hear from you!) and they'll add you to the
-[@scala-guild](https://github.com/orgs/guardian/teams/scala-guild) GitHub Team.
+[@scala-guild](https://github.com/orgs/guardian/teams/scala-guild) GitHub team.
 
 ## Scala Guild responsibilities
 
