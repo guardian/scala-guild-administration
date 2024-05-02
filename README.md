@@ -7,6 +7,10 @@ See the GitHub team [@scala-guild](https://github.com/orgs/guardian/teams/scala-
 This GitHub team is specifically for developers across the Guardian who’ve accepted the honoured responsibilities of our
 Scala Guild. It’s intended to draw its membership from across all Product Streams and Teams.
 
+If you'd like to join the guild, feel free to message any of the guild members (particularily,
+Roberto will always be delighted to hear from you!) and they'll add you to the
+[@scala-guild](https://github.com/orgs/guardian/teams/scala-guild) GitHub Team.
+
 ## Scala Guild responsibilities
 
 The Scala Guild is focussed on making sure that shared Scala code and infrastructure at the Guardian is maintained and secure -
