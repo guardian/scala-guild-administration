@@ -25,3 +25,14 @@ Each repo listed needs examples of usage across more than 1 Product team!
 **Used by:** [google-search-indexing-observatory](https://github.com/guardian/google-search-indexing-observatory/pull/50), [mobile-apps-api](https://github.com/guardian/mobile-apps-api/pull/2865)
 
 
+### [simple-configuration](https://github.com/guardian/simple-configuration)
+[![simple-configuration-core Scala version support](https://index.scala-lang.org/guardian/simple-configuration/simple-configuration-core/latest-by-scala-version.svg?platform=jvm)](https://index.scala-lang.org/guardian/simple-configuration/simple-configuration-core)
+
+**Used by:** [gatehouse](https://github.com/guardian/gatehouse/pull/12), [typerighter](https://github.com/guardian/typerighter/pull/6)
+
+
+### [guardian-configuration](https://github.com/guardian/guardian-configuration)  
+[![configuration Scala version support](https://index.scala-lang.org/guardian/guardian-configuration/configuration/latest-by-scala-version.svg?platform=jvm)](https://index.scala-lang.org/guardian/guardian-configuration/configuration)
+
+**Used by:** [content-api](https://github.com/guardian/content-api/pull/1491), [discussion-api](https://github.com/guardian/discussion-api/commit/06fc8192648fce2826cdf9135b35551c37432cc1)  
+(Usages to be replaced by [simple-configuration](https://github.com/guardian/simple-configuration) and library archived)  
