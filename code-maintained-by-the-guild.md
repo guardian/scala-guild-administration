@@ -6,6 +6,9 @@ Each repo listed needs examples of usage across more than 1 Product team!
 
 **Used by:** [Most](https://github.com/guardian/gha-scala-library-release-workflow/issues/20) Guardian Scala libraries ✨
 
+### [setup-scala](https://github.com/guardian/setup-scala)
+
+**Used by:** [Many](https://github.com/search?q=org%3Aguardian+%22guardian%2Fsetup-scala%22++NOT+is%3Aarchived+language%3AYAML&type=code&l=YAML) Guardian Scala projects, eg [play-googleauth](https://github.com/guardian/play-googleauth/pull/264), [mobile-n10n](https://github.com/guardian/mobile-n10n/pull/1325)
 
 ### [play-googleauth](https://github.com/guardian/play-googleauth)
 [![play-googleauth artifacts](https://index.scala-lang.org/guardian/play-googleauth/play-v30/latest-by-scala-version.svg)](https://index.scala-lang.org/guardian/play-googleauth/play-v30/)
