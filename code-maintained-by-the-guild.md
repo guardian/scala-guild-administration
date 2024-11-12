@@ -2,6 +2,12 @@
 
 Each repo listed needs examples of usage across more than 1 Product team! 
 
+### [scala-steward-public-repos](https://github.com/guardian/scala-steward-public-repos) & [scala-steward-private-repos](https://github.com/guardian/scala-steward-private-repos)
+
+**Used by:** Many [public](https://github.com/search?q=org%3Aguardian+author%3Agu-scala-steward-public-repos%5Bbot%5D&type=pullrequests&s=updated&o=desc) &
+[private](https://github.com/search?q=org%3Aguardian+author%3Agu-scala-steward-private-repos%5Bbot%5D&type=pullrequests&s=updated&o=desc)
+Guardian Scala repos ✨
+
 ### [gha-scala-library-release-workflow](https://github.com/guardian/gha-scala-library-release-workflow)
 
 **Used by:** [Most](https://github.com/guardian/gha-scala-library-release-workflow/issues/20) Guardian Scala libraries ✨
