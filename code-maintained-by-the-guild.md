@@ -16,6 +16,12 @@ Guardian Scala repos ✨
 
 **Used by:** [Many](https://github.com/search?q=org%3Aguardian+%22guardian%2Fsetup-scala%22++NOT+is%3Aarchived+language%3AYAML&type=code&l=YAML) Guardian Scala projects, eg [play-googleauth](https://github.com/guardian/play-googleauth/pull/264), [mobile-n10n](https://github.com/guardian/mobile-n10n/pull/1325)
 
+### [etag-caching](https://github.com/guardian/etag-caching)
+[![aws-s3-sdk-v2 Scala version support](https://index.scala-lang.org/guardian/etag-caching/aws-s3-sdk-v2/latest-by-scala-version.svg?platform=jvm)](https://index.scala-lang.org/guardian/etag-caching/aws-s3-sdk-v2)
+
+**Used by:** [frontend](https://github.com/guardian/frontend/pull/26338), [facia-scala-client](https://github.com/guardian/facia-scala-client/pull/287)
+
+
 ### [play-googleauth](https://github.com/guardian/play-googleauth)
 [![play-googleauth artifacts](https://index.scala-lang.org/guardian/play-googleauth/play-v30/latest-by-scala-version.svg)](https://index.scala-lang.org/guardian/play-googleauth/play-v30/)
 
