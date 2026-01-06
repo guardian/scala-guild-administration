@@ -34,6 +34,12 @@ Guardian Scala repos ✨
 **Used by:** [ophan](https://github.com/guardian/ophan/pull/2712), [riff-raff](https://github.com/guardian/riff-raff/pull/491)
 
 
+### [play-json-extensions](https://github.com/guardian/play-json-extensions)
+[![play-json-extensions Scala version support](https://index.scala-lang.org/guardian/play-json-extensions/play-json-extensions/latest-by-scala-version.svg?platform=jvm)](https://index.scala-lang.org/guardian/play-json-extensions/play-json-extensions)
+
+**Used by:** [mobile-apps-api](https://github.com/guardian/mobile-apps-api/pull/3341), [media-atom-maker](https://github.com/guardian/media-atom-maker/pull/1206)
+
+
 ### [redirect-resolver](https://github.com/guardian/redirect-resolver)
 [![redirect-resolver Scala version support](https://index.scala-lang.org/guardian/redirect-resolver/redirect-resolver/latest-by-scala-version.svg?platform=jvm)](https://index.scala-lang.org/guardian/redirect-resolver/redirect-resolver)
 
