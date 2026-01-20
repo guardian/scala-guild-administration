@@ -55,8 +55,8 @@ Guardian Scala repos ✨
 ## [guardian-configuration](https://github.com/guardian/guardian-configuration)  
 [![configuration Scala version support](https://index.scala-lang.org/guardian/guardian-configuration/configuration/latest-by-scala-version.svg?platform=jvm)](https://index.scala-lang.org/guardian/guardian-configuration/configuration)
 
-**Used by:** [content-api](https://github.com/guardian/content-api/pull/1491), [discussion-api](https://github.com/guardian/discussion-api/commit/06fc8192648fce2826cdf9135b35551c37432cc1)  
-(Usages to be replaced by [simple-configuration](https://github.com/guardian/simple-configuration) and library archived)  
+**Used by:** [content-api](https://github.com/guardian/content-api/pull/1491), [discussion-api](https://github.com/guardian/discussion-api/commit/06fc8192648fce2826cdf9135b35551c37432cc1)
+(Usages to be replaced by [simple-configuration](https://github.com/guardian/simple-configuration) and library archived)
 
 ## Adding more repos
 
