@@ -57,3 +57,7 @@ Guardian Scala repos ✨
 
 **Used by:** [content-api](https://github.com/guardian/content-api/pull/1491), [discussion-api](https://github.com/guardian/discussion-api/commit/06fc8192648fce2826cdf9135b35551c37432cc1)  
 (Usages to be replaced by [simple-configuration](https://github.com/guardian/simple-configuration) and library archived)  
+
+## Adding more repos
+
+If the Scala Guild adopts a new repo, the repo should be added to the list above and a new [auto-add workflow](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically) for it should be added to [the Scala Guild Github Project](https://github.com/orgs/guardian/projects/113). The new workflow can be added by duplicating an existing one, such as [this one for etag-caching](https://github.com/orgs/guardian/projects/113/workflows/44905208), and then updating the repository listed in the filter.
