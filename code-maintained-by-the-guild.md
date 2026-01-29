@@ -1,16 +1,16 @@
 # Code maintained by the Scala Guild
 
-For the Scala Guild to adopt a new repo, it should have examples of usage across more than 1 product team. If the repo is adopted, add it to the list below and (if not yet done):
+For the Scala Guild to adopt a new repo, it should have examples of usage across more than 1 product team. If a repo is adopted, add it to the list below and (if not yet done):
 
-- give admin access to the Scala Guild
+- give admin access to [the Scala Guild](https://github.com/orgs/guardian/teams/scala-guild)
 
 - add a codeowners file with the Scala Guild in it
 
   - you can copy an example from another repo in the list
 
-- add the repo to either our public or private Scala Steward apps
+- add the repo to either our [public](https://github.com/guardian/scala-steward-public-repos/) or [private](https://github.com/guardian/scala-steward-private-repos/) Scala Steward apps
 
-- add the standard release workflow, assuming the repo’s a scala library
+- add [the gha-scala-library-release workflow](https://github.com/guardian/gha-scala-library-release-workflow/) if the repo’s a scala library
 
 - add a new [auto-add workflow](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically)
  to [the Scala Guild Github Project](https://github.com/orgs/guardian/projects/113) for it
