@@ -1,8 +1,21 @@
 # Code maintained by the Scala Guild
 
-If the Scala Guild adopts a new repo, the repo should be added to the list below and a new [auto-add workflow](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically) for it should be added to [the Scala Guild Github Project](https://github.com/orgs/guardian/projects/113). The new workflow can be added by duplicating an existing one, such as [this one for etag-caching](https://github.com/orgs/guardian/projects/113/workflows/44905208), and then updating the repo listed in the filter.
+For the Scala Guild to adopt a new repo, it should have examples of usage across more than 1 product team. If the repo is adopted, add it to the list below and (if not yet done):
 
-Each repo listed needs examples of usage across more than 1 Product team! 
+- give admin access to the Scala Guild
+
+- add a codeowners file with the Scala Guild in it
+
+  - you can copy an example from another repo in the list
+
+- add the repo to either our public or private Scala Steward apps
+
+- add the standard release workflow, assuming the repo’s a scala library
+
+- add a new [auto-add workflow](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically)
+ to [the Scala Guild Github Project](https://github.com/orgs/guardian/projects/113) for it
+
+  - the new workflow can be added by duplicating an existing one, such as [this one for etag-caching](https://github.com/orgs/guardian/projects/113/workflows/44905208), and then updating the repo listed in the filter.
 
 ## [scala-steward-public-repos](https://github.com/guardian/scala-steward-public-repos) & [scala-steward-private-repos](https://github.com/guardian/scala-steward-private-repos)
 
